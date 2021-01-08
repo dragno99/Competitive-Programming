@@ -102,3 +102,7 @@ int main(){
     __sol();
     return 0;
 }
+
+// Problem : https://codeforces.com/contest/176/problem/B
+// solution: https://codeforces.com/contest/176/submission/103694877
+
